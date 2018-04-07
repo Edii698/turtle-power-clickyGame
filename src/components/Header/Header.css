@@ -1,0 +1,17 @@
+.appHeader {
+    background-image: url("https://i5.walmartimages.com/asr/7910e2a7-5d7a-4fdb-bef5-abd5c58a14df_1.765f7be5a38a5e7f5f1e3c5d2c8dce39.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF");
+    height: 215px;
+    color: rgb(255, 255, 255);
+    font-family: 'Passion One', cursive;
+}
+
+.title {
+    font-size: 125px;
+    text-shadow: 5px 5px 10px rgba(77, 0, 0, 0.897);
+    margin-top: -55px;
+}
+
+.sub {
+    font-size: 35px;
+    text-shadow: 4px 4px 9px rgb(0, 0, 0)
+}
