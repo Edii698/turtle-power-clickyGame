@@ -8,6 +8,8 @@ Every click will shuffle the images, so try to remember the characters you've cl
 
 Keep playing, and try to beat your best score.
 
+Demo: [Play the Clicky Game!](https://quiet-ocean-77319.herokuapp.com/)
+
 ![page preview img](readme-img.jpg)
 
 
