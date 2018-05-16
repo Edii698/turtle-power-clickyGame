@@ -1,5 +1,5 @@
 # Turtle Power Clicky-Game! 
-Teenage Ninja Turtle themed game build in **React**.
+Teenage Ninja Turtle themed game build with **React** JS and Bootstrap 4.
 
 ## Overview
 TMNT clicker memory game. Click an image to gain points, but don't click on the same image twice!

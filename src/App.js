@@ -12,7 +12,7 @@ class App extends Component {
     wasClicked: [],
     score: 0,
     topScore: 0,
-    message: "Click and image to begin!"
+    message: "Click an image to begin!"
   };
 
   // shuffle array everytime an img is clicked
